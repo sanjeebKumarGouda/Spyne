@@ -1,6 +1,6 @@
 # Spyne
 Software Engineer I - Backend
-To create the backend API in Java Spring Boot for the given assignment, we need to follow these steps:
+
 
 1. **Project Setup:**
    - Initialize a new Spring Boot project.
@@ -288,10 +288,3 @@ src
     └── resources
         └── application.properties
 ```
-
-### Submission
-- Upload the project to a GitHub repository.
-- Create a README file with instructions on how to run the project, API documentation, and the Postman collection link.
-- Submit the GitHub repository link through the provided Google form. 
-
-This setup provides a solid foundation for the backend API. Additional features like following users, viewing post counts, and more can be incrementally added following similar patterns.
